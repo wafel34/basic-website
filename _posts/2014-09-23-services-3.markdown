@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: 18.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Great Location
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ Russell Square tube station is 2 minutes away with a direct line to Heathrow airport. The flat is also well serviced by bus route, i.e. 7 going all the way down Oxford Street. Furthermore, 2 minutes away is the Brunswick Centre, with its restaurants, cafes, big and well stocked Waitrose supermarket, shops and cinema.
