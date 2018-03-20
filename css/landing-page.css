@@ -70,6 +70,18 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+.gallery {
+    background-color: #f8f8f8;
+    padding: 32px 0;
+}
+
+.gallery-row {
+    margin-bottom: 15px;
+}
+.gallery-row > img {
+    margin: 0 auto;
+}
+
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;

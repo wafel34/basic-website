@@ -1,0 +1,13 @@
+<section id="gallery" class="gallery">
+    <div class="container">
+        <h2>Gallery</h2>
+        {%for i in (1..16)%}
+            <div class="gallery-row col-md-3 col-sm-6 col-xs-6">
+                <a href="img/gallery/{{i}}.jpg" data-lightbox="{{1}}">
+
+                    <img class="img-responsive" src="img/gallery/{{i}}_t.jpg" alt="">
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</section>
